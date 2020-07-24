@@ -1,4 +1,4 @@
-# SeachAssist
+# SearchAssist
 Java-Project made by Kevin Quach
 
 Guten Tag Herr Sorst!
