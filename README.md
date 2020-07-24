@@ -6,7 +6,7 @@ Guten Tag Herr Sorst!
 Hiermit stelle ich Ihnen mein Java Programm zur Verfügung.
 
 Ordner: SRequest.ZIP  //In diesem .ZIP-Ordner ist die Datei logging.csv schon dabei.
-                      //Den .ZIP-Ordner auf Ihrer Coding-Plattform importieren. 
+                      //Den .ZIP-Ordner herunterladen, auf Ihrer Coding-Plattform importieren. 
 
 Hauptsächlich beinhaltet mein Java-Programm:
 
@@ -20,3 +20,9 @@ Du sollst nun ein Java Programm schreiben, welches zuerst nach dem Shopkey fragt
 
 Deadline: 24.07.2020 bis 23:59Uhr
 
+
+So funktioniert das importierte Programm:
+
+1) RUN
+2) In die Konsole eine Shopkey ID eingeben
+3) Auf Enter drücken
