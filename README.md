@@ -6,7 +6,11 @@ Guten Tag Herr Sorst!
 Hiermit stelle ich Ihnen mein Java Programm zur Verfügung.
 
 Ordner: SRequest.ZIP  //In diesem .ZIP-Ordner ist die Datei logging.csv schon dabei.
-                      //Den .ZIP-Ordner herunterladen, auf Ihrer Coding-Plattform importieren. 
+                      //Den .ZIP-Ordner herunterladen, extrahieren, auf Ihrer Coding-Plattform importieren. 
+                      
+[WICHTIG:]
+[Der normale SRequest-Dateiordner beinhaltet keine logging.csv-Datei!]
+
 
 Hauptsächlich beinhaltet mein Java-Programm:
 
